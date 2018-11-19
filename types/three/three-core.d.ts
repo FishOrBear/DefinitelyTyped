@@ -5412,6 +5412,16 @@ export interface WebGLRendererParameters {
      */
     alpha?: boolean;
 
+     /**
+     * default is true.
+     */
+    depth?: boolean;
+
+    /**
+    * default is true.
+    */
+    alpha?: boolean;
+
     /**
      * default is true.
      */
